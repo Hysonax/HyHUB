@@ -156,6 +156,10 @@ GameName.Text = "GAME_NAME"
 GameName.TextColor3 = Color3.new(1, 1, 1)
 GameName.TextSize = 14
 GameName.TextXAlignment = Enum.TextXAlignment.Left
+GameName.Active = true
+if true then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hysonax/HyHUB/main/data/GameChack.lua",true))()
+end
 
 --Text before Game NAME
 Text1.Name = "Text1"

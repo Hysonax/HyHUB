@@ -102,6 +102,7 @@ Tools.TextColor3 = Color3.new(0, 0, 0)
 Tools.TextSize = 14
 Tools.MouseButton1Down:connect(function()
 	--SCRIPT HERE!!!
+	warn("Not done yet!!!")
 end)
 
 --AntiCheatByPasses BUTTON
@@ -117,6 +118,7 @@ AntiCheatByPasses.TextColor3 = Color3.new(0, 0, 0)
 AntiCheatByPasses.TextSize = 14
 AntiCheatByPasses.MouseButton1Down:connect(function()
 	--SCRIPT HERE!!!
+	warn("Not done yet!!!")
 end)
 
 --Soon BUTTON

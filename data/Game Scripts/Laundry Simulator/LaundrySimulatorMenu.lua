@@ -151,7 +151,7 @@ AntiAFK.Text = "AntiAFK"
 AntiAFK.TextColor3 = Color3.new(0, 0, 0)
 AntiAFK.TextSize = 14
 AntiAFK.MouseButton1Down:connect(function()
-	warn("AntiAFK comming soon!!!")
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hysonax/HyHUB/main/data/Game%20Scripts/Laundry%20Simulator/Scripts/AntiAFK.lua",true))()
 end)
 
 
@@ -167,10 +167,10 @@ GamePasses.TextColor3 = Color3.new(0, 0, 0)
 GamePasses.TextSize = 14
 GamePasses.MouseButton1Down:connect(function()
 	game:GetService("Players").LocalPlayer.Gamepasses.VIP.Value = true
-    game:GetService("Players").LocalPlayer.Gamepasses.DoubleCoins.Value = true
-    game:GetService("Players").LocalPlayer.Gamepasses.BasketCapacity.Value = true
-    game:GetService("Players").LocalPlayer.Gamepasses.NitroSpeed.Value = true
-    game:GetService("Players").LocalPlayer.Gamepasses.DoubleClothes.Value = true
+   	game:GetService("Players").LocalPlayer.Gamepasses.DoubleCoins.Value = true
+    	game:GetService("Players").LocalPlayer.Gamepasses.BasketCapacity.Value = true
+	game:GetService("Players").LocalPlayer.Gamepasses.NitroSpeed.Value = true
+    	game:GetService("Players").LocalPlayer.Gamepasses.DoubleClothes.Value = true
 end)
 
 

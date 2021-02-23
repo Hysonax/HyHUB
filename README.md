@@ -2,5 +2,4 @@
 Script HUB for ROBLOX
 
 Suported games:
-  Arsenal
-  Laundry Simulator
+  Arsenal, Laundry Simulator

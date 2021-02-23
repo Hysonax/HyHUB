@@ -15,6 +15,8 @@ Frame.BackgroundColor3 = Color3.new(1, 1, 1)
 Frame.Position = UDim2.new(-0.000426322222, 0, 0.0579380542, 0)
 Frame.Size = UDim2.new(0, 240, 0, 98)
 Frame.Style = Enum.FrameStyle.RobloxRound
+Frame.Draggable = true
+Frame.Active=true
 
 Title.Name = "Title"
 Title.Parent = Frame

@@ -86,7 +86,7 @@ GameScripts.Text = "Game Scripts"
 GameScripts.TextColor3 = Color3.new(0, 0, 0)
 GameScripts.TextSize = 14
 GameScripts.MouseButton1Down:connect(function()
-	--SCRIPT HERE!!!
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hysonax/HyHUB/main/data/GameIDChack.lua",true))()
 end)
 
 --Tools BUTTON

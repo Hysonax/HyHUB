@@ -1,0 +1,1 @@
+setfflag("AbuseReportScreenshot", "False")

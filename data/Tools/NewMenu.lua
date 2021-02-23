@@ -1,0 +1,1 @@
+setfflag('NewInGameMenuPercentRollout', "100")

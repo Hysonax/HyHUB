@@ -36,7 +36,7 @@ VersionGUI.BackgroundTransparency = 1
 VersionGUI.Position = UDim2.new(0.504695296, 0, 0.861746848, 0)
 VersionGUI.Size = UDim2.new(0, 267, 0, 50)
 VersionGUI.Font = Enum.Font.SciFi
-VersionGUI.Text = "v 1.1.1"
+VersionGUI.Text = "v 1.1.2"
 VersionGUI.TextColor3 = Color3.new(1, 1, 1)
 VersionGUI.TextSize = 16
 

@@ -57,7 +57,7 @@ AbPlusEsp.Text = "AB + ESP"
 AbPlusEsp.TextColor3 = Color3.new(0, 0, 0)
 AbPlusEsp.TextSize = 14
 AbPlusEsp.MouseButton1Down:connect(function()
-	--SCRIPT HERE!!!
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hysonax/HyHUB/main/data/Game%20Scripts/Arsenal/Scripts/AB%2BESP.lua",true))()
 end)
 
 ControlText.Name = "ControlText"
@@ -99,7 +99,7 @@ HitBoxExtender.Text = "Hit Box Extender"
 HitBoxExtender.TextColor3 = Color3.new(0, 0, 0)
 HitBoxExtender.TextSize = 14
 AbPlusEsp.MouseButton1Down:connect(function()
-	--SCRIPT HERE!!!
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hysonax/HyHUB/main/data/Game%20Scripts/Arsenal/Scripts/ArsenalHitboxExtender.lua",true))()
 end)
 
 HitBoxText.Name = "HitBoxText"

@@ -1,4 +1,4 @@
-local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/OxyHub/main/documentation", true))() -- gets lib
+local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Hysonax/HyHUB/main/HyHUB%202.0/GUIcore.lua", true))() -- gets lib
 
 local PlrName = string.sub( game.Players.LocalPlayer:GetFullName(), 9)
 local speedSwitch

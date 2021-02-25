@@ -124,7 +124,7 @@ function HyLibrary:Create()
         HUB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
         HUB.BackgroundTransparency = 1.000
         HUB.BorderColor3 = Color3.fromRGB(27, 42, 53)
-        HUB.Position = UDim2.new(0.0706051886, 0, 0.0205479451, 0)
+        HUB.Position = UDim2.new(0.0406051886, 0, 0.0205479451, 0)
         HUB.Size = UDim2.new(0, 42, 0, 28)
         HUB.Font = Enum.Font.GothamBold
         HUB.Text = "HUB"

@@ -61,6 +61,6 @@ Title.BackgroundTransparency = 1
 Title.Position = UDim2.new(0.0664237067, 0, 0.0322014019, 0)
 Title.Size = UDim2.new(0, 267, 0, 50)
 Title.Font = Enum.Font.SciFi
-Title.Text = "Welcome to HyHUB"
+Title.Text = "Welcome to SplashHub"
 Title.TextColor3 = Color3.new(1, 1, 1)
 Title.TextSize = 25
